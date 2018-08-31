@@ -1,0 +1,11 @@
+/Users/adelaide/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.1/classes.deps.json
+/Users/adelaide/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.1/classes.runtimeconfig.json
+/Users/adelaide/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.1/classes.runtimeconfig.dev.json
+/Users/adelaide/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.1/classes.dll
+/Users/adelaide/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.1/classes.pdb
+/Users/adelaide/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.1/classes.csprojAssemblyReference.cache
+/Users/adelaide/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.1/classes.csproj.CoreCompileInputs.cache
+/Users/adelaide/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.1/classes.AssemblyInfoInputs.cache
+/Users/adelaide/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.1/classes.AssemblyInfo.cs
+/Users/adelaide/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.1/classes.dll
+/Users/adelaide/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.1/classes.pdb
